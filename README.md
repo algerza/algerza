@@ -1,4 +1,4 @@
-<img src="https://kit8.net/images/thumbnails/580/386/detailed/4/Man_at_work@2x.png" width="550" height="350">
+<img src="https://kit8.net/images/thumbnails/580/386/detailed/4/Man_at_work@2x.png" width="500" height="300">
 
 
 ### Hi there 👋
