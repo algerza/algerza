@@ -1,4 +1,4 @@
-<img src="https://kit8.net/images/thumbnails/580/386/detailed/4/Man_at_work@2x.png" width="500" height="300">
+<img src="https://cdn.dribbble.com/users/2788963/screenshots/6829123/characterheadgif3.gif" width="500" height="400">
 
 
 ### Hi there 👋
