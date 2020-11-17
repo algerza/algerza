@@ -1,6 +1,3 @@
-<img src="https://cdn.dribbble.com/users/2788963/screenshots/6829123/characterheadgif3.gif" width="500" height="400">
-
-
 ### Hi there 👋
 
 I am passionate about problem solving through data, making sure my solutions have a real impact on the business. Some key projects I worked on:
