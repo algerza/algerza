@@ -4,8 +4,6 @@
 ## 📖  About Me
 I'm a passionate data scientist helping companies to unleash their potential through data with tangible business outcome (ROI, not only model accuracy). My key areas are data science, business intelligence, digital marketing and sales pitching. Extensive experience both on Fortune 500 consulting companies and start-ups. M.sc in Data Analytics, Master in marketing management, bachelor in International Business Administration.
 
-[![](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaroager/)
-
  
 ## ⭐ Some of my projects
 
