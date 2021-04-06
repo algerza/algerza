@@ -10,7 +10,7 @@ I'm a passionate data scientist helping companies to unleash their potential thr
 ## ⭐ Some of my projects
 
 - **Predictive Lead Scoring Model** - 🛒Predict and rank customers leads based on their behavior - Who wil convert? Who will not? Why?
-- **Time-series forecasting** - 📈 Predict how many sales the online store will get
+- **E-commerce time-series forecasting** - 📈 Predict how many sales the online store will get
 - **Retail Store Clustering** - 🛍️ Segmentation of different retail stores to determine what are the strategic ones to keep in the real estate portfolio
 - **60 Years of summer hits analysis** - 🎸 Data analysis on how music has changed over the last 60 years using Spotify data 
 - **Covid-10 impact in Latvia** - 🦠 Data story about how Covid 19 is affecting Latvia compared to the rest of the world 
