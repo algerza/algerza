@@ -10,5 +10,6 @@ I'm a passionate data scientist helping companies to unleash their potential thr
 - **Predictive Lead Scoring Model** - 🛒Predict and rank customers leads based on their behavior before purchase - Who will convert or not convert? Why?
 - **E-commerce time-series forecasting** - 📈 Predict how many sales the online store will get on the following periods
 - **Retail Store Clustering** - 🛍️ Segmentation of different retail stores to determine what are the strategic ones to keep in the real estate portfolio
+- **Neobanks Reviews Classification** - 😡 Unsupervised topic modelling to classify and understand what are users complaining about 
 - **60 Years of summer hits analysis** - 🎸 Data analysis on how music has changed over the last 60 years using Spotify data 
 - **Covid-10 impact in Latvia** - 🦠 Data story about how Covid 19 is affecting Latvia compared to the rest of the world 
