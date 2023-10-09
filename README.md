@@ -2,7 +2,7 @@
 <h3 align="center">Data passionate</h3>
 
 ## 📖  About Me
-I'm a passionate data scientist helping companies to unleash their potential through data with tangible business outcome (ROI, not only model accuracy). My key areas are data science, business intelligence, digital marketing and sales pitching. Extensive experience both on Fortune 500 consulting companies and start-ups.
+I'm a highly positive data scientist that loves building products and solutions to make companies more efficient and grow. With several years of experience in consulting and fast-growing startup companies, I blend business, sales, team leadership and data analytics skills to make the most out of companies’ data.
 
  
 ## ⭐ Some of my projects
